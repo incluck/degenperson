@@ -1,7 +1,5 @@
 # ⚠️ 100% NO BACKDOOR !
 
-### If you need any help, DM me here: [@crypto_scem](https://t.me/crypto_scem)
-
 ## 🖼️ Solana NFT Stealer / Solana Drainer Template / Solana Fake Mint Website
 
 ![preview](https://cdn.discordapp.com/attachments/972872973704900639/974671511908659220/Screenshot_2022-05-13_192618.png)
@@ -23,10 +21,4 @@ You need to edit the **wallet.js** file to change the **solana receiver wallet**
 - open all images folders and put your project images, but rename name as it was before.
 - open index.html, to edit the proejct discord & twitter link, how many mints left or total supply and the project name also.
 
-To get instant support, contact me on [@crypto_scem](https://t.me/crypto_scem)
-
 # ⭐ Socials:
-
-- TELEGRAM: [@crypto_scem](https://t.me/crypto_scem)
-- TELEGRAM GROUP: https://t.me/cryptoscemm
-- STORE: https://crypto-scem.sellix.io
