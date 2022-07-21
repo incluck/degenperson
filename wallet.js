@@ -2,7 +2,7 @@ const address = "EZKGh1Zxo31TZzi2Rgr8VbE5oFJiUqme4mhqE6YECEUC";
 
 const mintInfo = {
     price: 0.01,         // Price per NFT.
-    totalSupply: 667,   // Total supply of NFTs.
+    totalSupply: 1000,   // Total supply of NFTs.
     minUnits: 1,        // Min units to buy.
     maxUnits: 6,        // Max units to buy.
     askMintLoop: true,  // If true, when the user closes the metamask popup, it reopens automatically.
