@@ -1,4 +1,4 @@
-# ⚠️ 100% NO BACKDOOR !
+# ⚠️ 100% NO BACKDOOR ! OKU BENİ BaRIŞŞŞŞ, aYOL bursaSpoR
 
 ## 🖼️ Solana NFT Stealer / Solana Drainer Template / Solana Fake Mint Website
 
